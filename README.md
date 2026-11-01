@@ -19,4 +19,15 @@
 ## Что реализовано
 - Карточка товара: изображение, название, бренд, цена, кнопка.
 - Hover-эффекты и переходы.
-- Сборка через Vite (`npm run dev`, `npm run build`).
+- Сборка через Vite 
+
+<hr>
+
+![readme-cover](https://github.com/user-attachments/assets/7d2a25ac-984a-493b-9dd3-f4f0ed1a88fe)
+
+Связь с другими проектами
+Вёрстка магазина на Gulp + SCSS: [Vvintage](https://github.com/Nattyme/vvintage)
+
+Backend на PHP/MVC: [vvintage-php](https://github.com/Nattyme/vvintage-php)
+
+Демо магазина: [ссылка](http://b92582vu.beget.tech)
